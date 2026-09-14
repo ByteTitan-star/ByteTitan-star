@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="57%">
 
 ### 💼 Internship
 
@@ -18,7 +18,20 @@
   <sub>AI R&amp;D · Beijing</sub>
 
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="41%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only"/>
+  <img src="profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="Total stars, commits, issues and PRs" width="330"/>
+</picture>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="46%">
 
 ### 📝 Research
 
@@ -27,16 +40,8 @@
 
 > 📄 [View publications →](publications.md)
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only"/>
-  <img src="profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="Total stars, commits, issues and PRs" width="280"/>
-</picture>
-
 </td>
-</tr>
-</table>
+<td valign="top" width="52%">
 
 ### 🚀 Featured Projects
 
@@ -45,3 +50,7 @@
 - 🎬 **[VideoGen-Agent](https://github.com/ByteTitan-star/VideoGen-Agent)** — end-to-end multi-stage video generation workflow on LangGraph, with unified model adapters & dynamic routing
 - 📄 **[PaperDistiller](https://github.com/ByteTitan-star/Agent_PaperDistiller)** — multi-agent paper-reading workspace · RAG QA, ToT-driven innovation analysis, bilingual translation
 - 💬 **[SoulMate](https://github.com/ByteTitan-star/Agent_SoulMate)** — full-stack AI companion platform driven by local LLMs · persona, long-term memory, Milvus RAG, real-time voice
+
+</td>
+</tr>
+</table>
