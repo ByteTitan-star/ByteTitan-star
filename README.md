@@ -27,22 +27,11 @@
 
 > 📄 [View publications →](publications.md)
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only"/>
-  <img src="profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="Total stars, commits, issues and PRs" width="390"/>
-</picture>
-
-</td>
-<td valign="top" width="48%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only"/>
-  <img src="profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per language" width="390"/>
+  <img src="profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="Total stars, commits, issues and PRs" width="280"/>
 </picture>
 
 </td>
