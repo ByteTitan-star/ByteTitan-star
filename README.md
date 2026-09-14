@@ -27,21 +27,8 @@
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td valign="top" width="46%">
-
-### 📝 Research
-
-- **Selection-Aware Poisoning for Clean-Label Backdoor Attacks** — training-free selection metrics (DDM &amp; PRM) · **IJCNN 2026** · *first author*
-- **AGPD-Net: Adaptive Gaussian-Prior Decomposition** — long-term time series forecasting · **WISA 2026**
-
-> 📄 [View publications →](publications.md)
-
-</td>
-<td valign="top" width="52%">
+<td valign="top" width="57%">
 
 ### 🚀 Featured Projects
 
@@ -50,6 +37,16 @@
 - 🎬 **[VideoGen-Agent](https://github.com/ByteTitan-star/VideoGen-Agent)** — end-to-end multi-stage video generation workflow on LangGraph, with unified model adapters & dynamic routing
 - 📄 **[PaperDistiller](https://github.com/ByteTitan-star/Agent_PaperDistiller)** — multi-agent paper-reading workspace · RAG QA, ToT-driven innovation analysis, bilingual translation
 - 💬 **[SoulMate](https://github.com/ByteTitan-star/Agent_SoulMate)** — full-stack AI companion platform driven by local LLMs · persona, long-term memory, Milvus RAG, real-time voice
+
+</td>
+<td valign="top" width="41%">
+
+### 📝 Research
+
+- **Selection-Aware Poisoning for Clean-Label Backdoor Attacks** — training-free selection metrics (DDM &amp; PRM) · **IJCNN 2026** · *first author*
+- **AGPD-Net: Adaptive Gaussian-Prior Decomposition** — long-term time series forecasting · **WISA 2026**
+
+> 📄 [View publications →](publications.md)
 
 </td>
 </tr>
