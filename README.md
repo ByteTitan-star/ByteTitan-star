@@ -48,12 +48,12 @@
 ### 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ByteTitan-star&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteTitan-star&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only"/>
+  <img src="profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="Total stars, commits, issues and PRs"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteTitan-star&layout=compact&hide_border=true&langs_count=6&theme=github_dark&bg_color=0D1117#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteTitan-star&layout=compact&hide_border=true&langs_count=6" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only"/>
+  <img src="profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per language"/>
 </picture>
 
 </div>
