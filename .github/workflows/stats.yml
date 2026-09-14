@@ -14,8 +14,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ByteTitan-star
+          AUTO_PUSH: false
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile summary cards [skip ci]"
+          file_pattern: "profile-summary-card-output/*.svg profile-summary-card-output/**/*.svg"
