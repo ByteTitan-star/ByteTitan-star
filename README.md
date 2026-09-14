@@ -2,7 +2,7 @@
   <a href="https://github.com/ByteTitan-star">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=00BFA5&center=true&vCenter=true&pause=1200&lines=Hi,+I'm+Xin+Wang+(ByteTitan);Building+Agents+and+Agent+Harness" alt="Hi, I'm ByteTitan"/>
   </a>
-  <p><strong>🤖 Currently building Agent Harness — the infrastructure layer beneath autonomous agents: context engineering, tool protocols, sandboxing &amp; evaluation.</strong></p>
+  <p><strong>🤖 Keeping up with the latest advances in Agent technology.</strong></p>
 </div>
 
 <table>
@@ -29,6 +29,24 @@
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only"/>
+  <img src="profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="Total stars, commits, issues and PRs" width="390"/>
+</picture>
+
+</td>
+<td valign="top" width="48%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only"/>
+  <img src="profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per language" width="390"/>
+</picture>
+
+</td>
+</tr>
 </table>
 
 ### 🚀 Featured Projects
@@ -38,22 +56,3 @@
 - 🎬 **[VideoGen-Agent](https://github.com/ByteTitan-star/VideoGen-Agent)** — end-to-end multi-stage video generation workflow on LangGraph, with unified model adapters & dynamic routing
 - 📄 **[PaperDistiller](https://github.com/ByteTitan-star/Agent_PaperDistiller)** — multi-agent paper-reading workspace · RAG QA, ToT-driven innovation analysis, bilingual translation
 - 💬 **[SoulMate](https://github.com/ByteTitan-star/Agent_SoulMate)** — full-stack AI companion platform driven by local LLMs · persona, long-term memory, Milvus RAG, real-time voice
-
-> 📂 [View project details →](projects.md) · 🌐 [Personal Site](https://github.com/ByteTitan-star/ByteTitan-star.github.io) · ⌨️ [LeetCode-ReStart](https://github.com/ByteTitan-star/LeetCode-ReStart)
-
----
-
-<div align="center">
-
-### 📊 Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only"/>
-  <img src="profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="Total stars, commits, issues and PRs"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only"/>
-  <img src="profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per language"/>
-</picture>
-
-</div>
