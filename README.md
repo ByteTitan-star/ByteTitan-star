@@ -14,10 +14,10 @@
 - <img src="logos/baidu.png" width="18" alt="" /> **Baidu** (百度) — <code>2026.10 → present</code><br/>
   <code>Agent Engineering</code>
 
-- <img src="logos/zhipu.png" width="18" alt="" /> **Zhipu AI** (智谱) — <code>2026.08 – 10</code><br/>
+- <img src="logos/zhipu.png" width="18" alt="" /> **Zhipu AI** (智谱) — <code>2026.08 – 2026.10</code><br/>
   <code>Multimodal Agent Engineering</code>
 
-- <img src="logos/biomap.png" width="18" alt="" /> **BioMap** (百图生科) — <code>2026.03 – 08</code><br/>
+- <img src="logos/biomap.png" width="18" alt="" /> **BioMap** (百图生科) — <code>2026.03 – 2026.08</code><br/>
   <code>Agent Harness R&amp;D</code>
 
 </td>
