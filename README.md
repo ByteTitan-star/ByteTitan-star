@@ -11,13 +11,14 @@
 
 ### 💼 Internship
 
-- <img src="logos/baidu.png" width="18" alt="" /> **Baidu** (百度) — <code>Agent Engineering</code> — <code>2026.10 → present</code>
+- <img src="logos/baidu.png" width="18" alt="" /> **Baidu** (百度) — <code>Agent Engineering</code><br/>
+  <code>2026.10 → present</code>
 
-- <img src="logos/zhipu.png" width="18" alt="" /> **Zhipu AI** (智谱) — <code>Multimodal Agent Engineering</code> — <code>2026.08 – 10</code><br/>
-  <sub>Digital Human Delivery Center · Beijing</sub>
+- <img src="logos/zhipu.png" width="18" alt="" /> **Zhipu AI** (智谱) — <code>Multimodal Agent Engineering</code><br/>
+  <code>2026.08 – 10</code>
 
-- <img src="logos/biomap.png" width="18" alt="" /> **BioMap** (百图生科) — <code>Agent Harness R&amp;D</code> — <code>2026.03 – 08</code><br/>
-  <sub>AI R&amp;D · Beijing</sub>
+- <img src="logos/biomap.png" width="18" alt="" /> **BioMap** (百图生科) — <code>Agent Harness R&amp;D</code><br/>
+  <code>2026.03 – 08</code>
 
 </td>
 <td valign="top" width="41%">
