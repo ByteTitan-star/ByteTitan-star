@@ -35,7 +35,7 @@
 
 ### 🚀 Featured Projects
 
-- 🎮 **[GameForge](https://github.com/ByteTitan-star/GameForge-Copilot)** — AI-powered browser game studio · turn ideas into playable games via dialogue · `24★`
+- 🎮 **[GameForge](https://github.com/ByteTitan-star/GameForge-Copilot)** — AI-powered browser game studio · turn ideas into playable games via dialogue · `25★`
 - 🤖 **[CodingKing](https://github.com/ByteTitan-star/CodingKing)** — autonomous coding agent with self-built ReAct + Reflection loop, tool protocol & Docker sandbox
 - 🎬 **[VideoGen-Agent](https://github.com/ByteTitan-star/VideoGen-Agent)** — end-to-end multi-stage video generation workflow on LangGraph, with unified model adapters & dynamic routing
 - 📄 **[PaperDistiller](https://github.com/ByteTitan-star/Agent_PaperDistiller)** — multi-agent paper-reading workspace · RAG QA, ToT-driven innovation analysis, bilingual translation
