@@ -11,10 +11,12 @@
 
 ### 💼 Internship
 
-- **Zhipu AI** (智谱) — <code>Multimodal Agent Engineering Intern</code> — <code>2026.08 → present</code><br/>
+- <img src="logos/baidu.png" width="18" alt="" /> **Baidu** (百度) — <code>Agent Engineering</code> — <code>2026.10 → present</code>
+
+- <img src="logos/zhipu.png" width="18" alt="" /> **Zhipu AI** (智谱) — <code>Multimodal Agent Engineering</code> — <code>2026.08 – 10</code><br/>
   <sub>Digital Human Delivery Center · Beijing</sub>
 
-- **BioMap** (百图生科) — <code>Agent Harness R&amp;D Intern</code> — <code>2026.03 – 08</code><br/>
+- <img src="logos/biomap.png" width="18" alt="" /> **BioMap** (百图生科) — <code>Agent Harness R&amp;D</code> — <code>2026.03 – 08</code><br/>
   <sub>AI R&amp;D · Beijing</sub>
 
 </td>
@@ -32,7 +34,7 @@
 
 ### 🚀 Featured Projects
 
-- 🎮 **[GameForge](https://github.com/ByteTitan-star/GameForge-Copilot)** — AI-powered browser game studio · turn ideas into playable games via dialogue · `18★`
+- 🎮 **[GameForge](https://github.com/ByteTitan-star/GameForge-Copilot)** — AI-powered browser game studio · turn ideas into playable games via dialogue · `24★`
 - 🤖 **[CodingKing](https://github.com/ByteTitan-star/CodingKing)** — autonomous coding agent with self-built ReAct + Reflection loop, tool protocol & Docker sandbox
 - 🎬 **[VideoGen-Agent](https://github.com/ByteTitan-star/VideoGen-Agent)** — end-to-end multi-stage video generation workflow on LangGraph, with unified model adapters & dynamic routing
 - 📄 **[PaperDistiller](https://github.com/ByteTitan-star/Agent_PaperDistiller)** — multi-agent paper-reading workspace · RAG QA, ToT-driven innovation analysis, bilingual translation
